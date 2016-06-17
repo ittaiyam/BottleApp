@@ -1,3 +1,5 @@
 .idea
-
 node_modules
+certificates
+npm-debug.log
+bottleapp.log
